@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Personal Bio Data</title>
+</head>
+<body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f0f4f8; color: #333; display: flex; justify-content: center; padding: 40px 20px;">
+
+  <div style="max-width: 600px; background: #fff; border-radius: 12px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); padding: 30px;">
+    
+    <!-- Header -->
+    <header style="text-align: center; margin-bottom: 25px;">
+      <img src="WhatsApp Image 2025-08-26 at 6.30.24 PM.jpeg" 
+           alt="Profile Photo" 
+           style="width: 120px; height: 120px; border-radius: 50%; border: 4px solid #3498db; object-fit: cover; margin-bottom: 15px;" />
+      <h1 style="font-size: 2.2rem; color: #2c3e50; margin-bottom: 5px;">Tanisha Bhujbal</h1>
+      <p style="font-size: 1.1rem; color: #7f8c8d;">Python Developer & AI Enthusiast</p>
+    </header>
+
+    <!-- About Me -->
+    <section style="margin-bottom: 20px;">
+      <h2 style="font-size: 1.5rem; color: #2980b9; margin-bottom: 10px; border-bottom: 2px solid #2980b9; padding-bottom: 5px;">About Me</h2>
+      <p style="line-height: 1.6; font-size: 1rem; color: #444;">
+        Passionate Python developer with a strong foundation in programming and problem-solving. Experienced in building projects involving AI, machine learning, and web development. Dedicated to continuous learning and eager to contribute innovative solutions in real-world applications.
+      </p>
+    </section>
+
+    <!-- Skills -->
+    <section style="margin-bottom: 20px;">
+      <h2 style="font-size: 1.5rem; color: #2980b9; margin-bottom: 10px; border-bottom: 2px solid #2980b9; padding-bottom: 5px;">Skills</h2>
+      <ul style="list-style-type: disc; margin-left: 20px; color: #555;">
+        <li style="margin-bottom: 6px; font-size: 1rem;">Python Development</li>
+        <li style="margin-bottom: 6px; font-size: 1rem;">Application Development</li>
+        <li style="margin-bottom: 6px; font-size: 1rem;">Frontend Development</li>
+        <li style="margin-bottom: 6px; font-size: 1rem;">Machine Learning (scikit-learn, TensorFlow)</li>
+        <li style="margin-bottom: 6px; font-size: 1rem;">Artificial Intelligence (AI)</li>
+        <li style="margin-bottom: 6px; font-size: 1rem;">Databases (MySQL, MongoDB)</li>
+        <li style="margin-bottom: 6px; font-size: 1rem;">Version Control (Git/GitHub)</li>
+      </ul>
+    </section>
+
+    <!-- Experience -->
+    <section style="margin-bottom: 20px;">
+      <h2 style="font-size: 1.5rem; color: #2980b9; margin-bottom: 10px; border-bottom: 2px solid #2980b9; padding-bottom: 5px;">Experience</h2>
+      <ul style="line-height: 1.8; font-size: 1rem; color: #444;">
+        <li><strong>Academic Project:</strong> Developed an AI-based Chatbot using Python and NLP libraries to answer user queries, improving response accuracy through machine learning techniques.</li>
+        <li><strong>Virtual Internship:</strong> Completed an online AI/ML internship, working on data preprocessing, model training, and evaluation using scikit-learn.</li>
+      </ul>
+    </section>
+
+    <!-- Education -->
+    <section style="margin-bottom: 20px;">
+      <h2 style="font-size: 1.5rem; color: #2980b9; margin-bottom: 10px; border-bottom: 2px solid #2980b9; padding-bottom: 5px;">Education</h2>
+      <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+        <thead>
+          <tr>
+            <th style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem; background-color: #2980b9; color: white;">Qualification</th>
+            <th style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem; background-color: #2980b9; color: white;">Institution</th>
+            <th style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem; background-color: #2980b9; color: white;">Year</th>
+            <th style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem; background-color: #2980b9; color: white;">Marks / CGPA</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem;">10th Standard</td>
+            <td style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem;">Hindustan Antibiotics School</td>
+            <td style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem;">2021</td>
+            <td style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem;">85%</td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem;">Diploma</td>
+            <td style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem;">Cusrow Wadia Institute of Technology</td>
+            <td style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem;">2024</td>
+            <td style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem;">89%</td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem;">B.Tech (Current)</td>
+            <td style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem;">Pimpri Chinchwad University</td>
+            <td style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem;">2027 (Expected)</td>
+            <td style="border: 1px solid #2980b9; padding: 10px; text-align: center; font-size: 1rem;">7.75 / 10</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Contact -->
+    <section style="margin-bottom: 20px;">
+      <h2 style="font-size: 1.5rem; color: #2980b9; margin-bottom: 10px; border-bottom: 2px solid #2980b9; padding-bottom: 5px;">Contact</h2>
+      <p style="line-height: 1.6; font-size: 1rem; color: #444;">Email: Tanishabhujbal05@gmail.com</p>
+      <p style="line-height: 1.6; font-size: 1rem; color: #444;">Phone: +918999160915</p>
+      <p style="line-height: 1.6; font-size: 1rem; color: #444;">LinkedIn:
+        <a href="https://www.linkedin.com/in/tanisha-bhujbal-24786a380/" target="_blank" rel="noopener noreferrer">linkedin.com/in/tanisha-bhujbal-24786a380</a>
+      </p>
+    </section>
+
+  </div>
+</body>
+</html>
